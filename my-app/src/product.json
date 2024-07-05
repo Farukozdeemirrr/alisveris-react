@@ -1,0 +1,115 @@
+[
+
+    {
+        "id": 1,
+        "title":"Sakız",
+        "price": 2.5,
+        "image": "https://productimages.hepsiburada.net/s/31/500/10334709252146.jpg" 
+    },
+
+    {
+        "id": 2,
+        "title":"Süt",
+        "price": 21.00, 
+        "image": "https://images.migrosone.com/macrocenter/product/11013025/11013025-9ec8a4.png" 
+    },
+
+    {
+        "id": 3,
+        "title":"Elma",
+        "price": 5.25, 
+        "image":"https://www.doktorsaliheken.com/2021/03/elma.jpg" 
+    },
+
+    {
+        "id": 4,
+        "title":"Portakal",
+        "price": 5.5,
+        "image": "https://www.aylinaydin.com.tr/wp-content/uploads/2014/12/portakal_beslenme.jpg" 
+    },
+
+    {
+        "id": 5,
+        "title":" Gofret",
+        "price": 5, 
+        "image":"https://images.migrosone.com/sanalmarket/product/07036281/07036281-557a0b-1650x1650.jpg" 
+    },
+
+    {
+        "id": 6,
+        "title":"1.5KG Şeker",
+        "price": 30,
+        "image": "https://m.media-amazon.com/images/I/81lRmCaBXaS.jpg" 
+    },
+
+
+    {
+        "id": 7,
+        "title":"5KG Su",
+        "price": 25,
+        "image":"https://iis-akakce.akamaized.net/p.x?%2F%2Fimages.migrosone.com%2Fsanalmarket%2Fproduct%2F08061601%2F08061601-984198-1650x1650.jpg" 
+    },
+
+    {
+        "id": 8,
+        "title":"Çalışma Masası",
+        "price": 800 ,
+        "image":"https://cdn.dsmcdn.com/ty785/product/media/images/20230317/11/305937698/71137223/1/1_org_zoom.jpg" 
+    },
+
+    {
+        "id": 9,
+        "title":"Yastık",
+        "price": 200, 
+        "image":"https://cdn-linens.mncdn.com/Content/Images/Thumbs/0046673_basic-yastik-kilifi.jpeg" 
+    },
+
+    {
+        "id": 10,
+        "title":"Çanta",
+        "price": 450 ,
+        "image":"https://m.media-amazon.com/images/I/91GteoMXryL._AC_UF1000,1000_QL80_.jpg" 
+    },
+
+    {
+        "id": 11,
+        "title":"Oyuncak Araba",
+        "price": 105,
+        "image":"https://m.media-amazon.com/images/I/61Z3tfl1MbL._AC_UF1000,1000_QL80_.jpg" 
+    },
+
+    {
+        "id": 12,
+        "title":"Doritos",
+        "price": 25 ,
+        "image":"https://images.migrosone.com/sanalmarket/product/05081220/05081220-47d24e-1650x1650.jpg" 
+    },
+
+    {
+        "id": 13,
+        "title":"Çubuk Kraker",
+        "price": 3 ,
+        "image":"https://cdn.akakce.com/ulker/ulker-80-gr-tuzlu-cubuk-z.jpg" 
+    },
+
+    {
+        "id": 14,
+        "title":"Sandalye",
+        "price": 220 ,
+        "image":"https://akn-enza.a-cdn.akinoncloud.com/products/2022/10/20/36595/01279943-6c7e-4101-bad2-578c7801b8ff_size1684x950.jpg" 
+    },
+
+    {
+        "id": 15,
+        "title":"İphone 15 Pro Max",
+        "price": 10000 ,
+        "image":"https://cdn.akakce.com/z/apple/iphone-15-pro-max-512-gb.jpg" 
+    },
+
+    {
+        "id": 16,
+        "title":"Apple Şarj Adaptörü",
+        "price": 540 ,
+        "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MU7V2_GEO_EMEA?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1544468120362" 
+    }
+]
